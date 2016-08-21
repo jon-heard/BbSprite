@@ -1,0 +1,11 @@
+D:\_projects\BbSprite\BbSprite\dll\BbSprite_editor\bin\Release\BbSprite_editor.dll
+D:\_projects\BbSprite\BbSprite\dll\BbSprite_editor\bin\Release\BbSprite_editor.pdb
+D:\_projects\BbSprite\BbSprite\dll\BbSprite_editor\bin\Release\BbSprite.dll
+D:\_projects\BbSprite\BbSprite\dll\BbSprite_editor\bin\Release\UnityEditor.dll
+D:\_projects\BbSprite\BbSprite\dll\BbSprite_editor\bin\Release\UnityEngine.dll
+D:\_projects\BbSprite\BbSprite\dll\BbSprite_editor\bin\Release\BbSprite.pdb
+D:\_projects\BbSprite\BbSprite\dll\BbSprite_editor\bin\Release\UnityEditor.xml
+D:\_projects\BbSprite\BbSprite\dll\BbSprite_editor\bin\Release\UnityEngine.xml
+D:\_projects\BbSprite\BbSprite\dll\BbSprite_editor\obj\Release\BbSprite_editor.csprojResolveAssemblyReference.cache
+D:\_projects\BbSprite\BbSprite\dll\BbSprite_editor\obj\Release\BbSprite_editor.dll
+D:\_projects\BbSprite\BbSprite\dll\BbSprite_editor\obj\Release\BbSprite_editor.pdb

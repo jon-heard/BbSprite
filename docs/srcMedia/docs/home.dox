@@ -1,0 +1,11 @@
+/// \mainpage
+/// BbSprite is an addon for Unity3D that lets you easily add Billboarded,
+/// multidirectional sprites.
+/// <br/><br/><br/>
+/// Art asset sources:<br/>
+/// <ul>
+/// <li>https://ryanler.files.wordpress.com/2007/02/orb8.png</li>
+/// <li>http://opengameart.org/content/wooden-fortress-and-animated-doors</li>
+/// <li>http://opengameart.org/content/cyclops-monster-2d</li>
+/// <li>http://untamed.wild-refuge.net/rpgxp.php</li>
+/// </ul>

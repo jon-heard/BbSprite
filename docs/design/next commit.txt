@@ -1,0 +1,14 @@
+
+run full test on animation
+	get ["animationname"] working
+	AddClip(clip, string) adds a clip to the animation with name newName
+	RemoveClip(clip) removes the clip from the animationset
+	clip.length prop: Animation length in seconds
+
+TODO:
+default guy is off the floor!
+consider fix invalid resource loading of clips
+switch over to serializableDictionary
+try to lock scale together using _lastScale in Editor_BbSprite
+
+icons for animationclip files and for BbSprite scripts

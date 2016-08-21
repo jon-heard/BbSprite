@@ -1,0 +1,66 @@
+Product description
+	What this is
+		short paragraph description
+	Why you should care
+		Prototyping
+			Quickly drop BbSprites into your scene to test AI or mockup a flavorful setting
+			HUGE library of free sprites available for prototyping on google images
+			Animating 2d frames quick and painless
+			Use concept art in your prototype
+		Production
+			Simple and painless to use
+			Rapid 3d production time: great results without a lot of tweaking
+			can get oldschool feel, or add highres sprites for beautiful gameplay
+			Quickly add hand-painted artwork into 3d scenes, bypassing modeling/texturing/rigging headaches
+				Great for 2d artists who don't have a technical modeling background/interest
+	Some examples of this technique in modern game design
+
+demos
+	3rd person FF-style rpg town
+		this will be the hub
+			has npcs to give fun/informative instructions on different demos
+			have a few npc's walking around to avoid static feel
+		to include
+			clouds
+			sun
+			tree in the center with BbSprite leaves (and trunk?
+			river w/ jumping BbSprite fish and fisherman
+		premise is that you just saved the village and all want to help you
+		cleared out the dungeon beneath the tree
+	a short but high resolution adventure game
+		you are in a painters painting - reason it looks so good
+		make sure it is really visually juicy - wow style
+		lots of very colorful lights to show off how lighting looks good
+		have pc be videotaped in (?)
+	a flythrough battle scene
+		a magician shows you a memory
+		demo optimization of engine
+		magicians cast BbSprite balls of energy
+	a side scroller (basic)
+		going into the dungeon beneath the tree
+		http://asvarduil.github.io/HerosJourney/webplayer.html
+		include lighting with shadows
+	a first person forest (try it)
+		to include
+			moon
+			crows - fly away when you get close (with cawing and flapping)
+			a graveyard
+movie
+	an intro movie showing how easy it is to use
+	a tutorial movie for layout
+	a tutorial movie for animations and rendering options
+	features
+		ease of use but depth
+
+video notes
+	more videos
+		countless games.  Recently, "pokemon black/white", "Paper mario" (find latest), "Don't starve!" and "ducktales"
+		have demo 2 show a 2d sprite along with 8d
+		come up with highres sprite and swap second and third demo
+		also use photo along with highres sprite
+		breakdown of system per video
+			renderer/shader options
+			animation
+			layout
+			scripting
+	tutorial of a demo scene

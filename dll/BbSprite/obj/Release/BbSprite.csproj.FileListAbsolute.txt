@@ -1,0 +1,8 @@
+D:\_projects\BbSprite\BbSprite\dll\BbSprite\bin\Release\BbSprite.dll
+D:\_projects\BbSprite\BbSprite\dll\BbSprite\bin\Release\BbSprite.pdb
+D:\_projects\BbSprite\BbSprite\dll\BbSprite\bin\Release\UnityEditor.dll
+D:\_projects\BbSprite\BbSprite\dll\BbSprite\bin\Release\UnityEngine.dll
+D:\_projects\BbSprite\BbSprite\dll\BbSprite\bin\Release\UnityEditor.xml
+D:\_projects\BbSprite\BbSprite\dll\BbSprite\bin\Release\UnityEngine.xml
+D:\_projects\BbSprite\BbSprite\dll\BbSprite\obj\Release\BbSprite.dll
+D:\_projects\BbSprite\BbSprite\dll\BbSprite\obj\Release\BbSprite.pdb
