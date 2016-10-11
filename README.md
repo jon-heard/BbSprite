@@ -1,7 +1,7 @@
 # BbSprite
 
 [![BbSprite](video.png)](https://www.youtube.com/watch?v=RwGG-_eUjFk "BbSprite")
-<i>A rundown of the features of the BBSprite plugin.</i>
+<br/><i>A rundown of the features of the BBSprite plugin.</i>
 
 ![Screenshot 1](screenshot01.gif)
 
