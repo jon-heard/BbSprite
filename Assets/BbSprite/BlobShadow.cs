@@ -31,6 +31,11 @@ public class BlobShadow : MonoBehaviour
 
 	private void OnEnable()
 	{
+    if (_shadowMaterial == null)
+    {
+      _shadowMaterial = Resources.Load<Material>("Default-Shadow");
+      _shadowMaterial.hideFlags = HideFlags.NotEditable;
+    }
 		Update();
 	}
 
@@ -86,7 +91,7 @@ public class BlobShadow : MonoBehaviour
 			_projector.nearClipPlane = 0;
 			_projector.farClipPlane = 1.5f;
 			_projector.orthographic = true;
-			_projector.material = ShadowMaterial;
+			_projector.material = _shadowMaterial;
 			shadow.transform.parent = transform;
 		}
 		else
@@ -111,13 +116,5 @@ public class BlobShadow : MonoBehaviour
 		_projector = null;
 	}
 
-	private readonly static Material ShadowMaterial;
-	static BlobShadow()
-	{
-		if (ShadowMaterial == null)
-		{
-			ShadowMaterial = Resources.Load<Material>("Default-Shadow");
-			ShadowMaterial.hideFlags = HideFlags.NotEditable;
-		}
-	}
+	private static Material _shadowMaterial;
 }

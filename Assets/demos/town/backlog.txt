@@ -1,0 +1,15 @@
+
+fix horizontal rotation/movement
+have camera stay within boundaries
+figure out idle animation issue
+have walk along wall not change rotation
+get mouse to return to position after locking (mmorpg style)
+
+
+
+
+a,d - turn, or strafe with right mouse
+right mouse - camera rotates, player follows (always tries to stay with camera)
+left mouse - hold to draw bow, release to release bow (crosshairs appear out too)
+
+
